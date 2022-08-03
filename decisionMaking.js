@@ -35,9 +35,29 @@ if (bearChoice === 1) {
 
 // Questions
 // 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
+// You are asked to enter either room #1 or room #2. Your choice was already defined in the beginning
+// by the variable doorChoice having the value 1. The if statement states that if doorChoice equals 1,
+// then the undefined bearClothing at the start has a new value which is 'hat'. The else statement
+// would have been executed and the bearClothing variable would have been 'scarf' if the doorChoice
+// variable had a value of 2 instead.
+//
 // 2. What variable has a new value assigned to it after the first if statement executes?
+// The bearClothing variable now has a new value "hat"
+//
 // 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+// The if statement and else statement only covers the integers 1 and 2 for the variable doorChoice.
+// The bearClothing variable still wouldn't have a value.
+//
 // 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
+// Prior to line 25, we are given three options. The if statement followed by the three else statements
+// determines the responses to our choices depending on which of the three options we decide.
+//
 // 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+// The final outcome would be "You run as fast as you can in to the next room. It's full of snakes!"
+//
 // 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+// The bearClothing variable will have the value "hat" and the final outcome would be
+// "You tell the bear the hat is too small and it starts to cry!"
+//
 // 7. What is your favorite ending?
+// I don't like the bear crying or snakes so I prefer the first ending.
